@@ -3,7 +3,7 @@ local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/td
 -- GLOBALS:
 _G.AutoStrat = true
 _G.Webhook = "YOUR-WEBHOOK-URL-HERE"
-_G.SendWebhook = true
+_G.SendWebhook = false
 _G.AutoSkip = false
 _G.AutoSnowballs = true
 
