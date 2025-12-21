@@ -5,7 +5,7 @@ _G.AutoStrat = true
 _G.Webhook = "YOUR-WEBHOOK-URL-HERE"
 _G.SendWebhook = false
 _G.AutoSkip = false
-_G.AutoSnowballs = true
+_G.AutoSnowballs = false
 
 -- Example Strat
 while _G.AutoStrat do
