@@ -29,7 +29,7 @@ local script_content = [[
             _G.SendWebhook = false
             _G.BackToLobby =  true
             _G.AutoSkip = false
-            _G.AutoSnowballs = false
+            _G.AutoSnowballs = true
 
             local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/tds-autostrat/refs/heads/main/main.lua"))()
 
