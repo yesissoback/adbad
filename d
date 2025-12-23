@@ -44,9 +44,6 @@ local script_content = [[
 
                 TDS:Ready()
 
-                TDS:UnlockTimeScale()
-                TDS:UseTimeScale(2) -- 2 being x2, after running this once, doing it again will kind of mess it up so don't run UseTimeScale again unless you know what you're doing!
-
                 -- Strat: --
                 TDS:Place("Soldier", 3.83, 1.00, -12.57) -- 1
                 TDS:Upgrade(1)
